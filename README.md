@@ -1,1 +1,1 @@
-# Lifeline_Nexus
+Welcome to Lifeline Nexus, a comprehensive Blood Bank Management System designed to streamline the process of blood donation and assistance. This system is built with a focus on providing efficient management for administrators and a user-friendly experience for donors and recipients.
